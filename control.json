@@ -1,4 +1,4 @@
 {
-    "enabled": true,
+    "enabled": false,
     "message": "No se pudo conectar con el servidor, visita https://sumarbot.freedev.app/"
 }
