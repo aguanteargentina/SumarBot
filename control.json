@@ -1,4 +1,4 @@
 {
     "enabled": false,
-    "message": "SumarBot se encuentra temporalmente deshabilitado."
+    "message": "No se pudo conectar con el servidor, visita https://sumarbot.freedev.app/"
 }
